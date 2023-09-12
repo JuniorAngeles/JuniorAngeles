@@ -1,16 +1,49 @@
-### Hi there 👋
 
-<!--
-**JuniorAngeles/JuniorAngeles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my GitHub profile
 
-Here are some ideas to get you started:
+Hello! I am Edward Junior Bautista Angeles, passionate about programming and technology. My goal is to contribute positively to the open source community and constantly learn. Here you will find some of my projects and contributions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- 😊 Passionate about technology and programming.
+- 🌱 Always learning and improving my skills.
+- 💬 Always open to collaborations and constructive discussions.
+- 📫 You can contact me at yuniorangeles06@gmail.com or through https://junior-angeles.vercel.app/ if you want to talk about any project or idea.
+
+## My Featured Projects
+
+Here you will find some of the projects I have worked on:
+
+https://junior-angeles.vercel.app/
+
+
+
+## Skills
+
+- JAVASCRIPT
+- TYPESCRIPT
+- PYTHON
+- MATERIAL UI
+- SQL
+- MATERIAL UI
+- NODEJS
+- EXPRESS
+- MYSQL
+- MONGODB
+- FIREBASE
+- DOCKER
+- POSTGRES
+- THREEJS
+
+
+## Code of Conduct
+
+I believe in the importance of maintaining a respectful and welcoming environment for all members of the community. Therefore, I commit to following the community code of conduct in all my projects and contributions.
+
+## Let's talk!
+
+If you have any questions, suggestions, or just want to chat about technology, feel free to contact me. I am always willing to learn and grow together with the open source community.
+
+Thanks for visiting my GitHub profile!
+
+
