@@ -20,20 +20,7 @@ https://junior-angeles.vercel.app/
 
 ## Skills
 
-- JAVASCRIPT
-- TYPESCRIPT
-- PYTHON
-- MATERIAL UI
-- SQL
-- MATERIAL UI
-- NODEJS
-- EXPRESS
-- MYSQL
-- MONGODB
-- FIREBASE
-- DOCKER
-- POSTGRES
-- THREEJS
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,typescript,mysql,docker,materialui,nodejs,mongo,firebase,postgres,threejs)](https://skillicons.dev)
 
 
 ## Code of Conduct
