@@ -14,7 +14,7 @@ Hello! I am Edward Junior Bautista Angeles, passionate about programming and tec
 
 Here you will find some of the projects I have worked on:
 
-myportafolio-zeta.vercel.app
+myportafolio-zeta.vercel.app 
 
 
 
