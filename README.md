@@ -20,9 +20,10 @@ https://junior-angeles.vercel.app/
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,typescript,mysql,docker,materialui,nodejs,mongo,firebase,postgres,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,typescript,mysql)](https://skillicons.dev)
 
-
+## Services
+[![Services](https://skillicons.dev/icons?i=,docker,materialui,nodejs,mongo,firebase,postgres,threejs)](https://skillicons.dev)
 ## Code of Conduct
 
 I believe in the importance of maintaining a respectful and welcoming environment for all members of the community. Therefore, I commit to following the community code of conduct in all my projects and contributions.
