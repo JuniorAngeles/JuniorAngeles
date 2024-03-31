@@ -16,7 +16,7 @@ Here you will find some of the projects I have worked on:
 
 myportafolio-zeta.vercel.app 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 ## Skills
 
