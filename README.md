@@ -26,8 +26,12 @@ myportafolio-zeta.vercel.app
 <h3 align="center"> ‎ ‎ ‎ ‎ ‎💼 Contact Info‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎🥇 Github Stats</h3>
  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 
+</div>
+<hr>
+<p><i>Feel free to connect with me in LinkedIn if you have any questions.</i>
+
 <div align="left">
-<a href="https://www.linkedin.com/in/edwin-mendoza-rodr%C3%ADguez-a58a73237/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/junior-angeles-a8207425b/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>
 
 
