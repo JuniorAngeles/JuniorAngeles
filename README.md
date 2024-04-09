@@ -22,23 +22,7 @@ myportafolio-zeta.vercel.app
 
 [![Services](https://skillicons.dev/icons?i=docker,materialui,nodejs,mongo,firebase,postgres,threejs)](https://skillicons.dev)
 
-<div style="display: flex">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center"> ‎ ‎ ‎ ‎ ‎💼 Contact Info‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
 
-
-
-<hr>
-<p><i>Feel free to connect with me in LinkedIn if you have any questions.</i>
-
-<div align="left">
-<a href="https://www.linkedin.com/in/junior-angeles-a8207425b/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
-  </div>
-</div>
-
-<br>
-<br>
-<br>
 
 ## Code of Conduct
 
