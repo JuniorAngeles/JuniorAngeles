@@ -20,7 +20,7 @@ myportafolio-zeta.vercel.app
 
 ## Services
 
-[![Services](https://skillicons.dev/icons?i=docker,materialui,nodejs,mongo,firebase,postgres,threejs)](https://skillicons.dev)
+[![Services](https://skillicons.dev/icons?i=nextjs,vite,docker,materialui,nodejs,mongo,firebase,postgres,threejs)](https://skillicons.dev)
 
 
 
