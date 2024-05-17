@@ -16,7 +16,7 @@ myportafolio-zeta.vercel.app
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,typescript,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,typescript,python,html,css,mysql)](https://skillicons.dev)
 
 ## Services
 
