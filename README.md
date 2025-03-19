@@ -8,6 +8,6 @@ Hello! I am Edward Junior Bautista Angeles, passionate about programming and tec
 - 😊 Passionate about technology and programming.
 - 🌱 Always learning and improving my skills.
 - 💬 Always open to collaborations and constructive discussions.
-- 📫 You can contact me at yuniorangeles06@gmail.com or through myportafolio-zeta.vercel.app if you want to talk about any project or idea.
+- 📫 You can contact me at yuniorangeles06@gmail.com if you want to talk about any project or idea.
 
 
